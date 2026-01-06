@@ -32,7 +32,7 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Reward Models
 - RLHF (Reinforcement Learning from Human Feedback)
 
-**[Chapter 2 Part 3](./Chapter2Part2.pptx)**
+**[Chapter 2 Part 3](./Chapter2Part3.pptx)**
 - Sampling Parameters (Temperature, Top-K, Top-P)
 - Test-Time Compute
 - Hallucination and its mitigation
