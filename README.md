@@ -4,7 +4,7 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 
 ## Contents
 
-### Chapter 1: Foundation Models & AI Engineering
+### Chapter 1: Introduction to Building AI Applications with Foundation Models
 
 **[Chapter 1 Part 1](./Chapter1Part1.pptx)**
 - Language models and next-token prediction
@@ -18,7 +18,7 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - The AI Stack
 - AI Engineering vs. ML Engineering
 
-### Chapter 2: Transformers & Optimization
+### Chapter 2: Understanding Foundation Models
 
 **[Chapter 2 Part 1](./Chapter2Part1.pptx)**
 - Attention Mechanism and math
