@@ -36,6 +36,14 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Sampling Parameters (Temperature, Top-K, Top-P)
 - Test-Time Compute
 - Hallucination and its mitigation
+  
+**[Chapter 3 Part 1](./Chapter3Part1.pptx)**
+- Rise of Evaluation in AI
+- Entropy
+- Cross-Entropy
+- KL Divergence
+- Perplexity (PPL)
+- Math example
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
