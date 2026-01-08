@@ -44,6 +44,13 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - KL Divergence
 - Perplexity (PPL)
 - Math example
+  
+**[Chapter 3 Part 2](./Chapter3Part2.pptx)**
+- Exact Evaluation techniques
+- Challenges of Reference Data
+- An Intro to Embeddings
+- Multimodal Embeddings
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
