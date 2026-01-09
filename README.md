@@ -50,7 +50,14 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Challenges of Reference Data
 - An Intro to Embeddings
 - Multimodal Embeddings
-
+  
+**[Chapter 3 Part 3](./Chapter3Part3.pptx)**
+- Evaluation Toolkit
+- AI as a Judge: Why and How
+- Pointwise and Pairwise Evaluation
+- Taxonomy and Limitations of AI Judges
+- Comparative Evaluation and its Challenges
+  
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
