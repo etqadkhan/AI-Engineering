@@ -57,6 +57,15 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Pointwise and Pairwise Evaluation
 - Taxonomy and Limitations of AI Judges
 - Comparative Evaluation and its Challenges
+   
+**[Chapter 4 Part 1](./Chapter4Part1.pptx)**
+- AI Evaluation 
+- The Challenge of Factual Consistency 
+- The SAFE Method 
+- Benchmarking Truthfulness with TruthfuIQA 
+- Evaluating Instruction-Following Capability 
+- Verifiable Instructions (IFEval) 
+- Optimising for Cost and Latency
   
 ---
 
