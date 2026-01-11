@@ -66,7 +66,13 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Evaluating Instruction-Following Capability 
 - Verifiable Instructions (IFEval) 
 - Optimising for Cost and Latency
-  
+   
+**[Chapter 4 Part 2](./Chapter4Part2.pptx)**
+- Systematic Workflow for Model Selection
+- Nuances of 'Open Source' Models
+- Public Benchmark to Production Monitoring
+- Challenges of Navigating Public Benchmarks
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
