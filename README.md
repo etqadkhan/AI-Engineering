@@ -72,7 +72,13 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Nuances of 'Open Source' Models
 - Public Benchmark to Production Monitoring
 - Challenges of Navigating Public Benchmarks
-
+   
+**[Chapter 4 Part 3](./Chapter4Part3.pptx)**
+- Data contamination with public benchmarks
+- Custom, Weighted Leaderboards
+- Designing Your Own Evaluation Pipeline 
+- Principles for a World-Class Evaluation Pipeline
+   
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
