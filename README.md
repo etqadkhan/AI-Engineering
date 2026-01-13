@@ -37,6 +37,8 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Test-Time Compute
 - Hallucination and its mitigation
   
+### Chapter 3: Evaluation Methodology
+  
 **[Chapter 3 Part 1](./Chapter3Part1.pptx)**
 - Rise of Evaluation in AI
 - Entropy
@@ -57,7 +59,9 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Pointwise and Pairwise Evaluation
 - Taxonomy and Limitations of AI Judges
 - Comparative Evaluation and its Challenges
-   
+  
+### Chapter 4: Evaluate AI Systems
+  
 **[Chapter 4 Part 1](./Chapter4Part1.pptx)**
 - AI Evaluation 
 - The Challenge of Factual Consistency 
@@ -78,7 +82,18 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Custom, Weighted Leaderboards
 - Designing Your Own Evaluation Pipeline 
 - Principles for a World-Class Evaluation Pipeline
-   
+     
+### Chapter 5: Prompt Engineering
+  
+**[Chapter 5 Part 1](./Chapter5Part1.pptx)**
+- In-Context Learning (ICL)
+- System vs. User Prompts
+- Exponential Growth of the Context Window
+- Needle in the Haystack (NIAH)
+- Chain-of-Thought (CoT)
+- Organizing and Versioning Prompts
+- Prompt Engineering Best Practices
+  
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
