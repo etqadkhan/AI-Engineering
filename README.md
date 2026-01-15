@@ -93,7 +93,27 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Chain-of-Thought (CoT)
 - Organizing and Versioning Prompts
 - Prompt Engineering Best Practices
+
+**[Chapter 5 Part 2](./Chapter5Part2.pptx)**
+- Defensive Prompt Engineering
+- Reverse Prompt Engineering
+- Training Data Extraction
+- Risk 3: Copyright Regurgitation
+- Jailbreaking
+- Prompt Injection
+- Defence Strategies against Prompt Hacking
+      
+### Chapter 6: RAG and Agents
   
+**[Chapter 6 Part 1](./Chapter6Part1.pptx)**
+- Introduction to RAG
+- RAG Architecture and Components
+- Sparse Retrieval
+- Dense Retrieval
+- Retrieval Optimisation Techniques
+- Evaluating a RAG system
+- Multimodal RAG
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
