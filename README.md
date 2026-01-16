@@ -114,6 +114,12 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Evaluating a RAG system
 - Multimodal RAG
 
+**[Chapter 6 Part 2](./Chapter6Part2.pptx)**
+- Intro to Agent
+- Tools and its core Functions
+- Agent Memory
+- Memory Bottleneck
+  
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
