@@ -119,6 +119,16 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Tools and its core Functions
 - Agent Memory
 - Memory Bottleneck
+
+**[Chapter 6 Part 3](./Chapter6Part3.pptx)**
+- Agent’s Reasoning Engine
+- Using Foundation Models as Planners
+- Example of an Agentic Flow
+- Dynamic Function Calling
+- Complex Control Flows
+- Reflection in an Agent
+- Tool Selection
+- Evaluating an AgentAgent Failure Modes
   
 ---
 
