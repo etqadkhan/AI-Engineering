@@ -129,7 +129,23 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Reflection in an Agent
 - Tool Selection
 - Evaluating an AgentAgent Failure Modes
+      
+### Chapter 7: Finetuning
   
+**[Chapter 7 Part 1](./Chapter7Part1.pptx)**
+- Finetuning vs Transfer Learning
+- When to Finetune
+- Finetune vs RAG
+- Memory Bottleneck with Training
+- Precision Formats and Trade-offs
+- Memory Math for Finetuning
+
+**[Chapter 7 Part 2](./Chapter7Part2.pptx)**
+- The Problems of Full Finetuning
+- Parameter-Efficient Finetuning (PEFT)
+- Detailed Look at Low-order Rank Adaptation
+- Introduction to Quantized LoRA
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
