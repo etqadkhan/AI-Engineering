@@ -146,6 +146,15 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Detailed Look at Low-order Rank Adaptation
 - Introduction to Quantized LoRA
 
+**[Chapter 7 Part 3](./Chapter7Part3.pptx)**
+- Multi-Task Finetuning
+- Discussion on Model Merging
+- Model Merging Techniques
+- Spherical Linear Interpolation (SLERP)
+- Pruning Redundant Parameters
+- Key Finetuning Hyperparameters
+- A look into prompt_weight_loss
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
