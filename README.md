@@ -128,7 +128,8 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Complex Control Flows
 - Reflection in an Agent
 - Tool Selection
-- Evaluating an AgentAgent Failure Modes
+- Evaluating an Agent
+- Agent Failure Modes
       
 ### Chapter 7: Finetuning
   
