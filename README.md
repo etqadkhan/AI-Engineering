@@ -155,6 +155,15 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Pruning Redundant Parameters
 - Key Finetuning Hyperparameters
 - A look into prompt_weight_loss
+      
+### Chapter 8: Dataset Engineering
+  
+**[Chapter 8 Part 1](./Chapter8Part1.pptx)**
+- Pillars of Data Curation
+- Data Quality Characteristics
+- Data Coverage
+- Data Quantity
+- Data Synthesis
 
 ---
 
