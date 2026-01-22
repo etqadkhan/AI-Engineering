@@ -167,8 +167,10 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 
 **[Chapter 8 Part 2](./Chapter8Part2.pptx)**
 - Traditional Data Synthesis Techniques
-- AI-Powered SynthesisModel Distillation
-- Limitation of AI Generated DataDeduplication, Filter and Format
+- AI-Powered Synthesis
+- Model Distillation
+- Limitation of AI Generated Data
+- Deduplication, Filter and Format
 
 ---
 
