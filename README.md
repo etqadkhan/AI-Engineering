@@ -1,4 +1,4 @@
-<img width="316" height="125" alt="image" src="https://github.com/user-attachments/assets/7cfdd131-bbd6-4612-8d83-8ad60ceedd5b" /># AI Engineering by Chip Huyen - Study Notes
+# AI Engineering by Chip Huyen - Study Notes
 
 Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 
