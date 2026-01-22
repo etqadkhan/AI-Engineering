@@ -1,4 +1,4 @@
-# AI Engineering by Chip Huyen - Study Notes
+<img width="316" height="125" alt="image" src="https://github.com/user-attachments/assets/7cfdd131-bbd6-4612-8d83-8ad60ceedd5b" /># AI Engineering by Chip Huyen - Study Notes
 
 Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 
@@ -164,6 +164,11 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Data Coverage
 - Data Quantity
 - Data Synthesis
+
+**[Chapter 8 Part 2](./Chapter8Part2.pptx)**
+- Traditional Data Synthesis Techniques
+- AI-Powered SynthesisModel Distillation
+- Limitation of AI Generated DataDeduplication, Filter and Format
 
 ---
 
