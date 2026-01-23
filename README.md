@@ -171,7 +171,19 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Model Distillation
 - Limitation of AI Generated Data
 - Deduplication, Filter and Format
-
+      
+### Chapter 9: Inference Optimization
+  
+**[Chapter 9 Part 1](./Chapter9Part1.pptx)**
+- Compute vs Bandwidth
+- Capacity vs Bandwidth
+- Prefill and Decode
+- TTFT, TPOT
+- Throughput vs Goodput
+- Activity vs Efficiency
+- MBU
+- FLOPs vs FLOP/s
+  
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
