@@ -184,6 +184,17 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - MBU
 - FLOPs vs FLOP/s
   
+**[Chapter 9 Part 2](./Chapter9Part2.pptx)**
+- Model Compression 
+- Autoregressive Bottleneck
+- Speculative Decoding
+- Parallel Decoding
+- The KV Cache Bottleneck
+- Writing Kernels
+- Inference Service Optimization
+- Decoupling & Prompt Caching
+- Parallelism Strategies
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
