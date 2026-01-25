@@ -195,6 +195,19 @@ Study materials summarizing key concepts from "AI Engineering" by Chip Huyen.
 - Decoupling & Prompt Caching
 - Parallelism Strategies
 
+### Chapter 10: AI Engineering Architecture and User Feedback
+
+**[Chapter 10](./Chapter10.pptx)**
+- Context Enhancement
+- Input Guardrails
+- Output Guardrails
+- Model Router
+- Model Gateway
+- Exact and Semantic Caching
+- Agent Patterns
+- Monitoring, Observability 
+- Logging and Tracing
+
 ---
 
 Based on "AI Engineering" by Chip Huyen. For detailed explanations, refer to the original book here: https://amzn.to/40orUvs
